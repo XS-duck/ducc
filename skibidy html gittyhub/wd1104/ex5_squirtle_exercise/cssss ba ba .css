@@ -1,0 +1,30 @@
+
+
+h1 {
+    color: red;
+    background-color: lightpink;
+    font-size: 10vw;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    color:aliceblue;
+    background-color:lightslategrey;
+}
+table {
+    color: darkorchid;
+
+}
+#crimson-li{
+    color:crimson;
+}
+#navbar{
+    background-color:rgb(0, 123, 255);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.stats table{
+    color: rgb(0, 255, 136);
+}
